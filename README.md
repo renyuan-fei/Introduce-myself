@@ -1,15 +1,15 @@
 # Hi there, I'm Renyuan Fei! 👋
 
-I'm a Bachelor of Computer Science student at the University of Adelaide, with skills in Project Management, Coding Development, and Risk Modeling. I enjoy learning knowledge related to my major and spending time on Web Design and Development. I'm always ready to take on new challenges in my future career.
+I'm a graduate of Computer Science from the University of Adelaide, with skills in Project Management, Coding Development, and Risk Modeling. I have a passion for Web Design and Development and am always ready to take on new challenges in my career.
 
-## 🌱 I’m currently learning ...
+## 🎓 I have knowledge and experience in ...
 
-- Advanced Web Development techniques
-- Deepening my understanding of Operating Systems
-- Enhancing my skills in Object-Oriented Programming
-- Data Structures and Algorithms
-- Computer Vision and Machine Learning
-- Cyber Security Fundamentals
+- Web Development: Proficient in HTML, CSS, JavaScript, Vue, Express, and Django.
+- Operating Systems: Proficient in Linux system, command line, bash scripting, and server deployment using Nginx, Uwsgi.
+- Programming: Well-versed in C, C++, and Python.
+- Data Structures and Algorithms: Familiar with various basic sorting algorithms, depth-first search algorithms, breadth-first search algorithms, recursive algorithms, dynamic programming algorithms, heaps, stacks, binary trees, queues, hash tables.
+- Computer Vision and Machine Learning: Experienced in implementing Convolutional Neural Networks and familiar with classic applications in deep learning computer vision. Mastered basic machine learning algorithms.
+- Cyber Security Fundamentals: Familiar with Kali Linux, basic cryptography, SSL library, memory attacks, network attacks, forensics.
 
 ## 💼 Past Projects
 
@@ -25,5 +25,5 @@ I'm a Bachelor of Computer Science student at the University of Adelaide, with s
 
 ## ⚡ Fun fact
 
-I love spending time in the gym after school work!
+I love spending time in the gym after work!
 
