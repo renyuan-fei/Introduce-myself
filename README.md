@@ -1,7 +1,11 @@
 
 ## Intro  
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dxwtrnpqi/image/upload/v1710838217/opytg31v4ozukbreovuy.jpg" align="center" height="300" width="" />
+</div>  
+
 ### <div align="center">I'm Frank(Renyuan) Fee, a full-stack developer 👨‍💻 </div>  
-  
 
 - 🔭 I'm currently looking for a job.  
   
