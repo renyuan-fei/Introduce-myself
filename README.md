@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dxwtrnpqi/image/upload/v1712250950/wcspnqfkwgq27r0emg2a.jpg" align="center" height="300" width="" />
+  <img src="https://res.cloudinary.com/dxwtrnpqi/image/upload/v1715009510/czqx5wf7h600mi9z6ajt.jpg" align="center" height="300" width="" />
 </div>  
 
 
